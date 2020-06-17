@@ -1,1 +1,1 @@
-# d3-animated-ScatterPlot
+# d3 animated ScatterPlot
